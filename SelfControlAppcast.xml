@@ -85,7 +85,6 @@
 						         sparkle:dsaSignature="MCwCFCUSVOm52eI2ewEL4yxWnTQGdU3bAhQsGIga9aDVJ+bwOm81xm/cr0fk2g=="
 					/>
 				</item>
-				<!--
 				<item>
         <title>Version 1.4.1</title>
         <sparkle:releaseNotesLink>
@@ -96,6 +95,5 @@
         length="1139589"csparkle:shortVersionString="1.4.1"
         sparkle:dsaSignature="MCwCFHXWJuvUUmYpU1jn3m+IYXL96U3DAhQdL0OPzxmQIYztH198Vj7RgopCOg=="/>
         </item>
-        -->
    </channel>
 </rss>
