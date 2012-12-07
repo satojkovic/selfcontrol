@@ -92,8 +92,11 @@
         </sparkle:releaseNotesLink>
         <pubDate>Fri, 07 Dec 2012 10:19:18 -0800</pubDate>
         <enclosure url="https://github.com/downloads/slambert/selfcontrol/SelfControl-1.4.1.zip"
-        length="1139589"csparkle:shortVersionString="1.4.1"
-        sparkle:dsaSignature="MCwCFHXWJuvUUmYpU1jn3m+IYXL96U3DAhQdL0OPzxmQIYztH198Vj7RgopCOg=="/>
+                   sparkle:version="1.4.1"
+                   type="application/octet-stream"
+                   length="1139589"
+                   sparkle:dsaSignature="MCwCFHXWJuvUUmYpU1jn3m+IYXL96U3DAhQdL0OPzxmQIYztH198Vj7RgopCOg=="
+        />
         </item>
    </channel>
 </rss>
