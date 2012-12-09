@@ -85,20 +85,18 @@
 						         sparkle:dsaSignature="MCwCFCUSVOm52eI2ewEL4yxWnTQGdU3bAhQsGIga9aDVJ+bwOm81xm/cr0fk2g=="
 					/>
 				</item>
-				<!--
 				<item>
-        <title>Version 1.4.1</title>
+        <title>Version 1.4.3</title>
         <sparkle:releaseNotesLink>
-        http://selfcontrolapp.com/releasenotes.html#collapse1-4-1
+        http://selfcontrolapp.com/releasenotes.html#collapse1-4-3
         </sparkle:releaseNotesLink>
-        <pubDate>Fri, 07 Dec 2012 10:19:18 -0800</pubDate>
-        <enclosure url="https://github.com/downloads/slambert/selfcontrol/SelfControl-1.4.1.zip"
-                   sparkle:version="1.4.1"
+        <pubDate>Sun, 09 Dec 2012 14:23:04 -0800</pubDate>
+        <enclosure url="https://github.com/downloads/slambert/selfcontrol/SelfControl-1.4.3.zip"
+                   sparkle:version="1.4.3"
                    type="application/octet-stream"
-                   length="1139589"
-                   sparkle:dsaSignature="MCwCFHXWJuvUUmYpU1jn3m+IYXL96U3DAhQdL0OPzxmQIYztH198Vj7RgopCOg=="
+                   length="1138199"
+                   sparkle:dsaSignature="MCwCFEXxZmFR14PTZfmqV3uCLeu8AcYqAhQYS9wQc2D1hun6R7x24DWJzFmNLQ=="
         />
         </item>
-        -->
    </channel>
 </rss>
