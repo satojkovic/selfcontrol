@@ -98,5 +98,18 @@
                    sparkle:dsaSignature="MCwCFEXxZmFR14PTZfmqV3uCLeu8AcYqAhQYS9wQc2D1hun6R7x24DWJzFmNLQ=="
         />
         </item>
+        <item>
+        <title>Version 1.4.4</title>
+        <sparkle:releaseNotesLink>
+        http://selfcontrolapp.com/releasenotes.html#collapse1-4-4
+        </sparkle:releaseNotesLink>
+        <pubDate>Wed, 12 Dec 2012 16:51:21 -0800</pubDate>
+        <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-1.4.4.zip"
+                   sparkle:version="1.4.4"
+                   type="application/octet-stream"
+                   length="1138233"
+                   sparkle:dsaSignature="MCwCFEf8Je6ofIEbDXupXhyD/BhFIzDPAhRtCGF/urM2c91T9tRLD5BjGwBIrg=="
+        />
+        </item>
    </channel>
 </rss>
