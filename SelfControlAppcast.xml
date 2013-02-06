@@ -111,5 +111,18 @@
                    sparkle:dsaSignature="MCwCFEf8Je6ofIEbDXupXhyD/BhFIzDPAhRtCGF/urM2c91T9tRLD5BjGwBIrg=="
         />
         </item>
+        <item>
+        <title>Version 1.5</title>
+        <sparkle:releaseNotesLink>
+        http://selfcontrolapp.com/releasenotes.html#collapse1-5
+        </sparkle:releaseNotesLink>
+        <pubDate>Wed, 06 Feb 2013 12:54:59 -0800</pubDate>
+        <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-1.5.zip"
+                   sparkle:version="1.5"
+                   type="application/octet-stream"
+                   length="1033155"
+                   sparkle:dsaSignature="MCwCFHXqUN8lc77RCi53ZwAeEnL3DtHUAhRvQCmQ5CEkKrY3KTXpvTeyTFBZ4A=="
+        />
+        </item>
    </channel>
 </rss>
